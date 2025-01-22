@@ -139,7 +139,15 @@ For support, email [kaustubharun2003@gmail,com](mailto:kaustubharun2003@gmail,co
 - UI design inspired by modern minimal interfaces
 - Special thanks to the Unity community
 
+## 🎮 Playable Demo  
+To try out the demo:  
+1. Download the **'game' folder**.  
+2. Open the folder and run the game executable.  
+3. Note: Currently, you can exit the game by pressing **Alt + F4**.  
 
+---
+
+Let me know if you'd like further refinements or need help with the demo instructions!
 ---
 
 Made with ❤️ by [NOX]
