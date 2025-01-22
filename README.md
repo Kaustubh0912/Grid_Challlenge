@@ -53,7 +53,7 @@ Players must:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Kaustubh0912/Grid_Challlenge
+git clone https://github.com/Kaustubh0912/Grid_Challlenge.git
 ```
 
 2. Open the project in Unity
