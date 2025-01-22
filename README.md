@@ -142,6 +142,6 @@ For support, email [kaustubharun2003@gmail,com](mailto:kaustubharun2003@gmail,co
 
 ---
 
-Made with ❤️ by [KCozy]
+Made with ❤️ by [NOX]
 
 [Unity Version: 2022.3.44f1]
