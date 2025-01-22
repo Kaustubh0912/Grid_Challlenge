@@ -150,6 +150,6 @@ To try out the demo:
 Let me know if you'd like further refinements or need help with the demo instructions!
 ---
 
-Made with ❤️ by [NOX]
+Made with ❤️ by NOX
 
 [Unity Version: 2022.3.44f1]
